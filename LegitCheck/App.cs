@@ -11,7 +11,12 @@ namespace LegitCheck
 
 			ListPage welcomePage = new  ListPage();
 
-			MainPage = new NavigationPage(welcomePage);
+			MainPage = new NavigationPage(welcomePage)
+			{
+				BarBackgroundColor = Color.FromHex("000000"),
+				BarTextColor = Color.FromHex("FF69B4"),
+				                       
+			};
 		}
 
 		protected override void OnStart()
