@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{4D7DB705-C5F8-4F0B-ADB0-3B848B629829}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Info.plist">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LegitCheck/Pages/ListPage.cs">
     <Files>
-      <File FileName="LegitCheck/Pages/ListPage.cs" Line="17" Column="47" />
-      <File FileName="LegitCheck/App.cs" Line="18" Column="5" />
+      <File FileName="LegitCheck/Pages/ListPage.cs" Line="12" Column="4" />
+      <File FileName="LegitCheck/App.cs" Line="16" Column="47" />
       <File FileName="LegitCheck/Models/ItemModel.cs" Line="9" Column="40" />
       <File FileName="LegitCheck/Views/ListPage/ItemModelViewCell.cs" Line="12" Column="62" />
       <File FileName="iOS/Info.plist" />

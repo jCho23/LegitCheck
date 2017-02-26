@@ -41,6 +41,7 @@ namespace LegitCheck
 			stackLayout.Children.Add(itemListView);
 
 			Title = "LegitCheck";
+			//NavigationPage.SetTitleIcon(this, "imageName");
 
 			Content = stackLayout;
 
