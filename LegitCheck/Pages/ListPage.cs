@@ -19,15 +19,9 @@ namespace LegitCheck
 
 			var listViewItemSource = new List<ItemModel>();
 
-			var kithItemModel = new ItemModel();
-			kithItemModel.ImageSource = "Kith";
-			kithItemModel.Title = "Kith";
-			kithItemModel.Description = "This is a Kith shoe";
+			var kithItemModel = new ItemModel("Adidas","Kith", ItemType.Shoe);
 
-			var jordanItemModel = new ItemModel();
-			jordanItemModel.ImageSource = "WhiteJ";
-			jordanItemModel.Title = "White Cement J's";
-			jordanItemModel.Description = "This is a Jordan Shoe";
+			var jordanItemModel = new ItemModel("Jordan", "White Cement 4", ItemType.Shoe);
 
 			listViewItemSource.Add(kithItemModel);
 			listViewItemSource.Add(jordanItemModel);

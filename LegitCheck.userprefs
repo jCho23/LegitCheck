@@ -1,11 +1,16 @@
 ﻿<Properties StartupConfiguration="{4D7DB705-C5F8-4F0B-ADB0-3B848B629829}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="LegitCheck/Pages/ListPage.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LegitCheck/Models/MediaModel.cs">
     <Files>
-      <File FileName="LegitCheck/Pages/ListPage.cs" Line="12" Column="4" />
+      <File FileName="LegitCheck/Pages/ListPage.cs" Line="22" Column="24" />
       <File FileName="LegitCheck/App.cs" Line="16" Column="47" />
-      <File FileName="LegitCheck/Models/ItemModel.cs" Line="9" Column="40" />
-      <File FileName="LegitCheck/Views/ListPage/ItemModelViewCell.cs" Line="12" Column="62" />
+      <File FileName="LegitCheck/Models/ItemModel.cs" Line="18" Column="2" />
+      <File FileName="LegitCheck/Views/ListPage/ItemModelViewCell.cs" Line="9" Column="32" />
       <File FileName="iOS/Info.plist" />
+      <File FileName="LegitCheck/Models/PhotoModel.cs" Line="15" Column="3" />
+      <File FileName="LegitCheck/Helpers/DebugHelpers.cs" Line="31" Column="40" />
+      <File FileName="LegitCheck/Helpers/ImageHelpers.cs" Line="25" Column="16" />
+      <File FileName="LegitCheck/Models/VideoModel.cs" Line="14" Column="1" />
+      <File FileName="LegitCheck/Models/MediaModel.cs" Line="8" Column="30" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
