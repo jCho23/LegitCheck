@@ -1,0 +1,9 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "team.accessTokens": [
+        {
+            "account":"cadddemos",
+            "token":"on6nuhreckzg2m2s2apci3kmzcctentdhqwxwtxpeoxdel4skptq"
+        }
+    ]
+}
